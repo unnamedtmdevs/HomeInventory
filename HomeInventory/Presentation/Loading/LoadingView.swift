@@ -103,7 +103,7 @@ struct LoadingView: View {
                 }
                 
                 VStack(spacing: AppSpacing.md) {
-                    Text("HomeInventory")
+                    Text("DomInventory")
                         .font(.system(size: 42, weight: .black, design: .rounded))
                         .foregroundStyle(
                             LinearGradient(
